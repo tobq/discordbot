@@ -37,7 +37,7 @@ export const MESSAGE_TEMPLATE: MessageTemplate[] = [
                 ]
             },
             [
-                " on instagram. "
+                " on discord. "
             ],
             [
                 {
