@@ -106,7 +106,7 @@ export const MESSAGE_TEMPLATE: MessageTemplate[] = [
                 "such as"
             ]
         },
-        " @ardistbeats, @lunch77beats, @FernoSpazzin, @Tripilz ",
+        " @ArdistBeats, @Lunch77beats, @FernoSpazzin, @Tripilz ",
         {
             "ors":[
                 "and",

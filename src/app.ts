@@ -144,7 +144,7 @@ getSamplePosters(guildId)
             try {
                 await reachOut(posterId)
                 console.error("Completed Reach out to:", posterId)
-                await sleep(20_000 + Math.random() * 10_000)
+                await sleep(30_000 + Math.random() * 10_000)
             } catch (e) {
                 console.error("FAILED TO REACH OUT TO:", posterId, e)
 
