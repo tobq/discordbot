@@ -1,4 +1,5 @@
 export function sleep(ms: number) {
+    console.debug(`Sleeping for: ${(ms/1000).toFixed(2)} seconds`);
     return new Promise<void>(resolve => setTimeout(resolve, ms));
 }
 
